@@ -4,14 +4,17 @@ const Table = () => {
             <div class="row">
           <div class="row">
             <div class="column">
+            <img id="animal" src="https://www.safarigorillatours.com/wp-content/uploads/2017/01/Uganda-Rwanda-Self-Drive.jpg" />
                 <h1 id="hlion">Safaris</h1>
                 <p id="lionp">We have something for everyone, whether you are a solo traveller, travelling with friends or even a family looking for an adventurous getaway. We have wildlife trips, active adventures or escorted tours combining several different Mountains. Meet local communities, discover new cultures and enjoy an authentic experience travelling around Tanzania.</p>
             </div>
             <div class="column">
+            <img id="animal" src="https://www.micato.com/wp-content/uploads/2018/09/mt-kilimanjaro-1110x700.jpg" />
                 <h1 id="hlion">Trecking</h1>
                 <p id="lionp">We have something for everyone, whether you are a solo traveller, travelling with friends or even a family looking for an adventurous getaway. We have wildlife trips, active adventures or escorted tours combining several different Mountains. Meet local communities, discover new cultures and enjoy an authentic experience travelling around Tanzania.</p>
             </div>
             <div class="column">
+                <img id="animal" src="data:image/jpeg;base64,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" />
                 <h1 id="hlion">Cultural Tour</h1>
                 <p id="lionp">We have something for everyone, whether you are a solo traveller, travelling with friends or even a family looking for an adventurous getaway. We have wildlife trips, active adventures or escorted tours combining several different Mountains. Meet local communities, discover new cultures and enjoy an authentic experience travelling around Tanzania.</p>
             </div>
@@ -104,6 +107,75 @@ We offer quality management and care to our clients. Our guides are outstanding 
                 <img id="animal" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJnLidp84-dsOclUR9rGdS3WfBr-mPAvzIw&usqp=CAU" alt="Kilimanjaro" />
                 <p id="animalp">Zanzibar islands cool and breezy place</p>
             </div>
+        </div>
+        <br></br>
+        <br></br>
+        <div>
+            
+            <h1 id="h2lion">Places you can visit</h1>
+        </div>
+        <br></br>
+        <div class="row" id="places">
+            <div  class="column">
+            <div class="card">
+                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <div class="c-container">
+                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <p id="ptanzania">Architect & Engineer</p>
+                </div>
+                </div>
+            </div>
+            <div  class="column">
+            <div class="card">
+                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <div class="c-container">
+                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <p id="ptanzania">Architect & Engineer</p>
+                </div>
+                </div>
+            </div>
+            <div  class="column">
+                <div class="card">
+                    <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                    <div class="c-container">
+                        <h1 id="hlion"><b>Serengeti</b></h1>
+                        <p id="ptanzania">Architect & Engineer</p>
+                    </div>
+                    </div>
+            </div>
+            
+            
+        </div>
+        <div class="row" id="places">
+            <div  class="column">
+            <div class="card">
+                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <div class="c-container">
+                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <p id="ptanzania">Architect & Engineer</p>
+                </div>
+                </div>
+            </div>
+            <div  class="column">
+            <div class="card">
+                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <div class="c-container">
+                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <p id="ptanzania">Architect & Engineer</p>
+                </div>
+                </div>
+            </div>
+            <div  class="column">
+                <div class="card">
+                    <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                    <div class="c-container">
+                        <h1 id="hlion"><b>Serengeti</b></h1>
+                        <p id="ptanzania">Architect & Engineer</p>
+                    </div>
+                    </div>
+            </div>
+            
+            
         </div>
 
 
