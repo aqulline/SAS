@@ -127,18 +127,18 @@ We offer quality management and care to our clients. Our guides are outstanding 
             </div>
             <div  class="column">
             <div class="card">
-                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <img id="animalc" src="https://cloudfront.safaribookings.com/blog/2021/07/00-best-safaris-near-mount-kilimanjaro-national-park-BW-header400px.jpg" alt="Avatar"/>
                 <div class="c-container">
-                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <h1 id="hlion"><b>Kilimanjaro</b></h1>
                     <p id="ptanzania">Architect & Engineer</p>
                 </div>
                 </div>
             </div>
             <div  class="column">
                 <div class="card">
-                    <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                    <img id="animalc" src="https://wildlifesafaritanzania.com/wp-content/uploads/2020/08/Facts-about-Lake-Manyara-National-Park-750x450.jpg" alt="Avatar"/>
                     <div class="c-container">
-                        <h1 id="hlion"><b>Serengeti</b></h1>
+                        <h1 id="hlion"><b>Lake Manyara</b></h1>
                         <p id="ptanzania">Architect & Engineer</p>
                     </div>
                     </div>
@@ -146,30 +146,32 @@ We offer quality management and care to our clients. Our guides are outstanding 
             
             
         </div>
+        <br></br>
+        <br></br>
         <div class="row" id="places">
             <div  class="column">
             <div class="card">
-                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <img id="animalc" src="https://www.aardvark-expeditions.com/wp-content/uploads/2015/05/Arusha-National-Park.jpg" alt="Avatar"/>
                 <div class="c-container">
-                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <h1 id="hlion"><b>Arusha National Park</b></h1>
                     <p id="ptanzania">Architect & Engineer</p>
                 </div>
                 </div>
             </div>
             <div  class="column">
             <div class="card">
-                <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                <img id="animalc" src="https://www.hoaexp.com/wp-content/uploads/2020/03/Panoramic-view-of-Crater-Ngorongoro-at-the-afternoon.jpg" alt="Avatar"/>
                 <div class="c-container">
-                    <h1 id="hlion"><b>Serengeti</b></h1>
+                    <h1 id="hlion"><b>Ngorongoro Crater</b></h1>
                     <p id="ptanzania">Architect & Engineer</p>
                 </div>
                 </div>
             </div>
             <div  class="column">
                 <div class="card">
-                    <img id="animalc" src="https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/900x/040ec09b1e35df139433887a97daa66f/c/h/cheetahs_in_the_african_savanna_against_the_backdrop_of_beautiful_sunset._serengeti_national_park.jpg" alt="Avatar"/>
+                    <img id="animalc" src="https://wildlifesafaritanzania.com/wp-content/uploads/2020/07/Mkomazi-National-Park.jpg" alt="Avatar"/>
                     <div class="c-container">
-                        <h1 id="hlion"><b>Serengeti</b></h1>
+                        <h1 id="hlion"><b>Mkomazi</b></h1>
                         <p id="ptanzania">Architect & Engineer</p>
                     </div>
                     </div>

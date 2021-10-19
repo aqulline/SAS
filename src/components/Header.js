@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <header class="Head">
-            <h1>Welcome to Swahili Afirca Safaris, let's Explore Together</h1>
+            <h1 id="kichwa">Welcome to Swahili Africa Safaris, let's Explore Together</h1>
         </header>
     )
 }
