@@ -378,6 +378,63 @@ color: white;
     text-align: center;
   }
 
+  .aq{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+
+  #jo{
+    height: 50px;
+    align-items: center;
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
+    background-clip: padding-box;
+    border-color: gainsboro;
+    border-radius: 3px;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    background-color: transparent;
+    color: white;
+  }
+
+
+  #btn{
+    -webkit-text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-transform: inherit;
+    text-decoration: none;
+    border: 0 none transparent;
+    outline-width: 0;
+    margin: 0;
+    font-style: initial;
+    white-space: nowrap;
+    user-select: none;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 0;
+    align-self: flex-start;
+    display: inline-block;
+    font-family: 'Open Sans',sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.4;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    position: relative;
+    border-width: 0B;
+    background-color: #ddddcf!important;
+    background-image: none;
+    font-weight: 700;
+    border-style: none;
+    font-size: 0.875rem;
+    color: black !important;
+    }
   
 }
 
