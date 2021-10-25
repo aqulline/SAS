@@ -1,17 +1,17 @@
 const Footer = () => {
     return (
         <div class="footer">
-  <div class="bf">
-  <h1 id="hed">Create your trip</h1>
-<input type="text" id="fre" size="50"/><br></br><br></br>
-<input type="text" id="fre" size="50" placeholder="Enter your E-mail Adress"/><br></br><br></br>
-< textarea type="text" id="f" size="50" placeholder="Enter your message"/><br></br>
-<button class="button">Submitt</button>
-  </div>
-        <div class="gim">
-            <h1>Reservation</h1>
-                <p id="vo">Are You Planning A Tailor-Made Safari To Africa?</p>
+            <form>
+            <h1 id="fh1">Create Your Trip</h1><br></br><br></br>
+            <input type="text" size="50" placeholder="Enter your Name" id="jo"/><br></br><br></br>
+            <input type="text" size="50" placeholder="Enter your E-mail" id="jo"/><br></br><br></br>
+            <textarea type="text" placeholder="Comment" size="50" id="ju"/><br></br><br></br>
+            <button id="btn">Submit</button>
+        <div class="aq">
+             <h1>Reservations</h1>
+                <p>Are You Planning A Tailor-Made Safari To Africa?</p>
         </div>
+        </form>
 </div>
     )
 }
