@@ -4,6 +4,7 @@ const Hero_about = () => {
             <div class="hero-about-text">
                 <h1>Get ready to Explore</h1>
                 <p>Travel with us</p>
+                <button id='hero'>S A S</button>
             </div>
         </div>
     )

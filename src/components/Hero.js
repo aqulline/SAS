@@ -4,7 +4,7 @@ const Hero = () => {
             <div class="hero-text">
                 <h1>Swahili Africa Safari</h1>
                 <p>Welcome!</p>
-                <button>Next</button>
+                <button id="hero">Next</button>
             </div>
         </div>
     )

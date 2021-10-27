@@ -39,6 +39,19 @@ window.onscroll = function() {
   }
 }
 
+var scrollToTopBtn = document.getElementById("hero")
+var rootElement = document.documentElement
+function scrollToTop() {
+  // Scroll to top logic
+  rootElement.scrollTo({
+    top: 650,
+    behavior: "smooth"
+  })
+}
+
+scrollToTopBtn.addEventListener("click", scrollToTop)
+
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals

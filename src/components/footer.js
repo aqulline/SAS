@@ -2,6 +2,7 @@ const Footer = () => {
     return (
         <div class="footer">
             <form>
+                
             <h1 id="fh1">Create Your Trip</h1><br></br><br></br>
             <input type="text" size="50" placeholder="Enter your Name" id="jo"/><br></br><br></br>
             <input type="text" size="50" placeholder="Enter your E-mail" id="jo"/><br></br><br></br>
@@ -11,6 +12,9 @@ const Footer = () => {
              <h1>Reservations</h1>
                 <p>Are You Planning A Tailor-Made Safari To Africa?</p>
         </div>
+        <input type="text" placeholder="Enter your name"  id="hide" /><br></br><br></br>
+        <input type="text" placeholder="Enter your E-mail" id="kam" /><br></br><br></br>
+        <textarea placeholder="Comment" id="man" />
         </form>
 </div>
     )
